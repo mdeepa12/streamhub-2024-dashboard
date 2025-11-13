@@ -4,7 +4,7 @@
 ## 📸 Dashboard Preview
 
 <p align="center">
-  <img src="dashboard_screenshot.png" width="100%" alt="StreamHub Dashboard Screenshot">
+  <img src="revenue.png" width="100%" alt="StreamHub Dashboard Screenshot">
 </p>
 
 A full-scale analytics project built by **Deepa Mallipeddi** using synthetic data that simulates a modern streaming platform (like Netflix/Spotify).
