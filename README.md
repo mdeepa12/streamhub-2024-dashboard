@@ -1,4 +1,6 @@
 # 🎬 StreamHub 2024 — Retention & Revenue Analytics Dashboard
+[![Live Dashboard](https://img.shields.io/badge/Live-Dashboard-teal?style=for-the-badge)](https://streamapp-2024-dashboard.streamlit.app/)
+🔗 **Live Streamlit App:** https://streamapp-2024-dashboard.streamlit.app/
 
 A full-scale analytics project built by **Deepa Mallipeddi** using synthetic data that simulates a modern streaming platform (like Netflix/Spotify).
 
